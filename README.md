@@ -2,6 +2,6 @@
 
 💻 Estudo Front-End 
 
-🚀 Habilidades HTML, CSS, JavaScript, Git/GitHub, Angular JS...
-
-📱 Contato: (11)97723-7830
+🚀 Habilidades HTML, CSS, JavaScript, Git/GitHub, Angular JS,  Bootstrap ...
+      
+📱  Contato: (11)97723-7830               
